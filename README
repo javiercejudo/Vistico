@@ -1,0 +1,31 @@
+                          Vistico
+
+  What is it?
+  -----------
+
+  Vistico is an example piece of software to demonstrate project management for 
+  publicly funded projects
+
+  The Latest Version
+  ------------------
+
+  Details of the latest version can be found under 
+  https://github.com/javiercejudo/Vistico.
+
+  Documentation
+  -------------
+
+  Documentation for the code or user guides are not yet available.
+
+  Installation
+  ------------
+
+  - Create vistico database using the file vistico.sql
+  - Specify user and pass for the database under properties.ini.php in 
+    www/contents/code/pers/
+  - Review the code and run index.php
+
+  Licensing
+  ---------
+
+  Please see the file called LICENSE.
